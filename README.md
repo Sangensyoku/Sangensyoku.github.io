@@ -1,5 +1,5 @@
 # Sangensyoku.github.io
-Sangensyoku's Blog v1.01
+Sangensyoku's Blog v1.02
 
 [Test](/TranslatingPractice/test.md)
 
