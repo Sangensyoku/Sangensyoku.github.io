@@ -1,4 +1,6 @@
 # Sangensyoku.github.io
 Sangensyoku's Blog
 
-[论无限博弈](/TranslatingPractice/test.md)
+[Test](/TranslatingPractice/test.md)
+[AA_Test](/TranslatingPractice/Love Me Tender ＆ Hold Me Tight Final.html)
+
