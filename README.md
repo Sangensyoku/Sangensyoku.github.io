@@ -1,0 +1,2 @@
+# Blog
+Sangensyoku's Blog
