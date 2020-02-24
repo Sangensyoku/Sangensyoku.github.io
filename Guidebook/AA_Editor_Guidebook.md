@@ -18,13 +18,13 @@ http://orin-tyan.ha-orenoyome.com/subterranean/src/orin487.zip
 
 解压好之后的文件夹如下所示：
 
-![image-20200224183948892](C:\Users\ZJL\AppData\Roaming\Typora\typora-user-images\image-20200224183948892.png)
+![image-20200224183948892](/Guidebook/pic/image-20200224183948892.png)
 
 #### 运行
 
 打开文件「OrinrinEditor.exe」，打开的画面如图
 
-![image-20200224184149366](C:\Users\ZJL\AppData\Roaming\Typora\typora-user-images\image-20200224184149366.png)
+![image-20200224184149366](/Guidebook/pic/image-20200224184149366.png)
 
 画面上大致可以分成3个部分：
 
@@ -38,7 +38,7 @@ http://orin-tyan.ha-orenoyome.com/subterranean/src/orin487.zip
 
 制作好AA之后，选择左上方的「ファイル」→「名前を付けて保存」（另存为）就可以将AA另存为mlt，ast，以及txt文件。
 
-![image-20200224184610016](C:\Users\ZJL\AppData\Roaming\Typora\typora-user-images\image-20200224184610016.png)
+![image-20200224184610016](/Guidebook/pic/image-20200224184610016.png)
 
 注意：第一次保存时保存类型必须选择ShiftJIS类型，否则会提示首次保存无法使用Unicode模式。
 
@@ -68,7 +68,7 @@ http://orin-tyan.ha-orenoyome.com/subterranean/src/orin485.zip
 
 解压好之后的文件夹如下所示：
 
-![image-20200224185243296](C:\Users\ZJL\AppData\Roaming\Typora\typora-user-images\image-20200224185243296.png)
+![image-20200224185243296](/Guidebook/pic/image-20200224185243296.png)
 
 
 
@@ -88,7 +88,7 @@ https://cloud.yaruyomi.com/index.php/s/eFaREY4aw57sHYm?path=%2F
 
 然后选择「機能」→「AA一覧ツリーを再構築」，在弹出的对话框中点击「参照」，指定为你在上一步解压缩的离线素材库的目录，然后再点击「リストアップ」
 
-![image-20200224190236030](C:\Users\ZJL\AppData\Roaming\Typora\typora-user-images\image-20200224190236030.png)
+![image-20200224190236030](/Guidebook/pic/image-20200224190236030.png)
 
 最后，全部选择勾选，然后点击「構築」，就成功导入AA的素材库了。
 
