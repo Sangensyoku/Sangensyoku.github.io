@@ -1,6 +1,6 @@
 # Sangensyoku.github.io
 Sangensyoku's Blog v1.03
-
+[简单易懂的AA编辑器+AA库的使用教程]（/Guidebook/AA_Editor_Guidebook.md）
 [Test](/TranslatingPractice/test.md)
 
 [Love me tender & Hold me tight : 蛇足](/TranslatingPractice/LMT_HMT_2.5.html)
