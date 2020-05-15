@@ -12,3 +12,5 @@ Sangensyoku's Blog v1.03
 [Princess Connect Re:Drive  Magical Shiori](/picture/5PfRSk8.gif)
 
 [Princess Connect Re:Drive  Magical Kasumi](/picture/rEICZmB.gif)
+
+[【R-18】不幸的催眠](/Unfortunate_Hypnosis/index.md)
