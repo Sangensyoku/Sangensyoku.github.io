@@ -9,3 +9,6 @@ Sangensyoku's Blog v1.03
 
 [Love me tender & Hold me tight : 转](/TranslatingPractice/LMT_HMT_3.html)
 
+[Princess Connect Re:Drive  Magical Shiori](/picture/5PfRSk8.gif)
+
+[Princess Connect Re:Drive  Magical Kasumi](/picture/rEICZmB.gif)
