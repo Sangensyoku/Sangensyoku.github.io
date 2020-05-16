@@ -14,3 +14,5 @@ Sangensyoku's Blog v1.03
 [Princess Connect Re:Drive  Magical Kasumi](/picture/rEICZmB.gif)
 
 [【R-18】不幸的催眠](/Unfortunate_Hypnosis/index.md)
+
+[【R-18·短篇】性杯战争](/Other_AA/Fate_Sex_War.html)
