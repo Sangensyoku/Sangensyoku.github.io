@@ -16,3 +16,6 @@ Sangensyoku's Blog v1.03
 [【R-18】不幸的催眠](/Unfortunate_Hypnosis/index.md)
 
 [【R-18·短篇】性杯战争](/Other_AA/Fate_Sex_War.html)
+
+[【R-18·短篇】昏睡逆推！野兽化的先代](/Other_AA/Beast_Senpai.html)　　[打码版](/Other_AA/Beast_Senpai_2.html)
+
