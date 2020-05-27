@@ -19,3 +19,4 @@ Sangensyoku's Blog v1.03
 
 [【R-18·短篇】昏睡逆推！野兽化的先代](/Other_AA/Beast_Senpai.html)　　[打码版](/Other_AA/Beast_Senpai_2.html)
 
+[【R-18·短篇】Sex_Grand_Order 色GO道](/Other_AA/Sex_Grand_Order.html)
