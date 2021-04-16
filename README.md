@@ -12,5 +12,7 @@
 
 [【R-18·短篇】Sex_Grand_Order 色GO道](/Other_AA/Sex_Grand_Order.html)
 
+[【R-18·连载】时停探索者亚鲁欧](/Timestop_Dungeon/index.md)
+
 ![Front1](/picture/Chinese_Translated_AA.png)
 ![Front2](/picture/Original_AA.png)
