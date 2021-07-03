@@ -4,11 +4,11 @@
 
 [Love me tender & Hold me tight : 转](/Other_AA/LMT_HMT_3.html)
 
-[【R-18】不幸的催眠](/Unfortunate_Hypnosis/index.md)
+[【R-18】不幸的催眠（已完结）](/Unfortunate_Hypnosis/index.md)
 
 [【R-18·短篇】性杯战争](/Other_AA/Fate_Sex_War.html)
 
-[【R-18·短篇】昏睡逆推！野兽化的先代](/Other_AA/Beast_Senpai.html)　　[打码版](/Other_AA/Beast_Senpai_2.html)
+[【R-18·短篇】昏睡逆推！野兽化的先代](/Other_AA/Beast_Senpai.html)　　[打码版点此](/Other_AA/Beast_Senpai_2.html)
 
 [【R-18·短篇】Sex_Grand_Order 色GO道](/Other_AA/Sex_Grand_Order.html)
 
