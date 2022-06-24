@@ -1,5 +1,9 @@
 # 欢迎来到AA同好会!
 
+# 已转移至新网址 : [AAfanclub.github.io](https://aafanclub.github.io/)
+
+
+
 [Love me tender & Hold me tight : 蛇足](/Other_AA/LMT_HMT_2.5.html)
 
 [Love me tender & Hold me tight : 转](/Other_AA/LMT_HMT_3.html)
